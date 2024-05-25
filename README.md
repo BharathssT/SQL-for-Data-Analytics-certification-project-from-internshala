@@ -1,0 +1,1 @@
+# SQL-for-Data-Analytics-certification-project-from-internshala
